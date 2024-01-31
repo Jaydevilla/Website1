@@ -1,9 +1,11 @@
 header
 {
-    background-color:#585858;
-    color:white;
+    
+    color:rgb(66, 25, 1);
     text-align:center;
-    padding:5px;
+    padding:50px;
+    font-size: 30px;
+    
 }
 
 nav
